@@ -1,5 +1,7 @@
 # Customer Churn Prediction
 
+**Live demo:** https://kushsharawat.github.io/churn-prediction-app/
+
 A machine learning project that predicts which telecom customers are likely to leave. It **trains and compares three scikit-learn models in Python** and presents the results in an interactive **React** app, including a live predictor that scores any customer in the browser and explains why.
 
 ![Predict tab](docs/predict.png)
